@@ -178,16 +178,16 @@ Diluted EPS = Net income/（Weighted average number of shares + new common share
 
 如果有稀释股份的融资工具存在那么计算稀释性每股收益时，都假定这些工具已经转股，比如可转优先股，如果转换为普通股，那么就不需要给优先股分红，分子就不再减去优先股分红，而分母就多了转换出来的普通股数量
 
-|                                                 | **Basic EPS** |      | **Diluted EPS Using If-Converted Method** |
-| :---------------------------------------------- | :-----------: | :--- | :---------------------------------------: |
-| Net income                                      |  $1,750,000   |      |                $1,750,000                 |
-| Preferred dividend                              |   –200,000    |      |                     0                     |
-| **Numerator**                                   |  $1,550,000   |      |                $1,750,000                 |
-| Weighted average number of shares outstanding   |    500,000    |      |                  500,000                  |
-| Additional shares issued if preferred converted |       0       |      |                  100,000                  |
-| **Denominator**                                 |    500,000    |      |                  600,000                  |
-|                                                 |               |      |                                           |
-| **EPS**                                         |   **$3.10**   |      |                 **$2.92**                 |
+|                                                 | **Basic EPS** | **Diluted EPS Using If-Converted Method** |
+| :---------------------------------------------- | :-----------: | :---------------------------------------: |
+| Net income                                      |  $1,750,000   |                $1,750,000                 |
+| Preferred dividend                              |   –200,000    |                     0                     |
+| **Numerator**                                   |  $1,550,000   |                $1,750,000                 |
+| Weighted average number of shares outstanding   |    500,000    |                  500,000                  |
+| Additional shares issued if preferred converted |       0       |                  100,000                  |
+| **Denominator**                                 |    500,000    |                  600,000                  |
+|                                                 |               |                                           |
+| **EPS**                                         |   **$3.10**   |                 **$2.92**                 |
 
 
 
@@ -197,16 +197,16 @@ Diluted EPS = （Net income + after-tax interests on Convertible Debt - Preferre
 
 发生债转时，公司不再支付利息，当期的收入因此增加，注意这里增加的收入是需要纳税的，所以分子需要加上after-tax interests on Convertible Debt。而分母则需要加上转债增加的普通股数量。
 
-|                   Basic EPS                   |           | **Diluted EPS Using If-Converted Method** |           |
-| :-------------------------------------------: | :-------- | :---------------------------------------: | --------- |
-|                  Net income                   | $750,000  |                                           | $750,000  |
-|          After-tax cost of interest           |           |                                           | 2,100     |
-|                 **Numerator**                 | $750,000  |                                           | $752,100  |
-| Weighted average number of shares outstanding | 690,000   |                                           | 690,000   |
-|                 If converted                  | 0         |                                           | 10,000    |
-|                **Denominator**                | 690,000   |                                           | 700,000   |
-|                                               |           |                                           |           |
-|                    **EPS**                    | **$1.09** |                                           | **$1.07** |
+|                                               | Basic EPS | **Diluted EPS Using If-Converted Method** |
+| :-------------------------------------------: | :-------- | ----------------------------------------- |
+|                  Net income                   | $750,000  | $750,000                                  |
+|          After-tax cost of interest           |           | 2,100                                     |
+|                 **Numerator**                 | $750,000  | $752,100                                  |
+| Weighted average number of shares outstanding | 690,000   | 690,000                                   |
+|                 If converted                  | 0         | 10,000                                    |
+|                **Denominator**                | 690,000   | 700,000                                   |
+|                                               |           |                                           |
+|                    **EPS**                    | **$1.09** | **$1.07**                                 |
 
 
 
