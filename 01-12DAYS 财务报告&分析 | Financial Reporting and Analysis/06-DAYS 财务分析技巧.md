@@ -396,7 +396,7 @@ Operation Income = Interest + EBT
 
 拆解三：ROE = Tax burden × Interest burden × EBIT margin × Total asset turnover × Leverage = [net income / EBT ] × [EBT / EBIT ] × [ EBIT / Revenue] × [Revenue / average total assets ] ×  [ average total assets / Average shareholders’ equity]
 
-![dupontAnalysis](/Users/yijikun/Documents/GitHub/CFALEVEL1-60DAYS/Pic/dupontAnalysis.png)
+![dupontAnalysis](../Pic/dupontAnalysis.png)
 
 
 
